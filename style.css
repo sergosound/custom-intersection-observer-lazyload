@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    margin-bottom: 700px;
+}
+img {
+    width: fit-content;
+    height: 400px;
+    display: block;
+    margin-bottom: 20px;
+}
